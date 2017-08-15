@@ -1,0 +1,17 @@
+---
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/test?useSSL=false
+    username: root
+    password: Sm4C*4G[;_k2H,k67oWb
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    database: mysql
+
+application:
+  infrastructure:
+    qcloud:
+      sdk-app-id: 1400035246
+
