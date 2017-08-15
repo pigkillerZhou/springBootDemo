@@ -1,0 +1,32 @@
+= TODO
+
+== video curd 方法
+
+- create
+    * 带id
+    * auto increased
+    * self defined
+    * 不带id
+- update 
+    * put vs post
+    
+- increase
+    * exist
+    * not exist
+    
+- list
+    
+    
+== 测试环境
+
+- unit test mvc
+
+== resource
+
+== doc
+
+== security -> auto documentation
+
+== 缓存
+
+== hatos

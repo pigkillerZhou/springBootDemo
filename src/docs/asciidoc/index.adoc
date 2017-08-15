@@ -1,0 +1,37 @@
+= API Documentation
+:doctype: book
+:compat-mode:
+:page-layout!:
+:toc: right
+:toclevels: 2
+:sectanchors:
+:sectlinks:
+:sectnums:
+:linkattrs:
+:source-highlighter: highlightjs
+
+
+== Overview
+
+=== AsciiDoc
+
+http://asciidoctor.org/docs/asciidoc-writers-guide[Writer Guide^]
+
+=== Spring Restdocs
+
+http://docs.spring.io/spring-restdocs/docs/current/reference/html5/[Reference^]
+
+=== Spring Auto Restdocs
+
+https://scacap.github.io/spring-auto-restdocs[Reference^]
+
+== API
+
+include::{snippets}/video-controller-unit-test/create-with-id/section.adoc[]
+include::{snippets}/video-controller-unit-test/create-without-id/section.adoc[]
+include::{snippets}/video-controller-unit-test/delete-with-id/section.adoc[]
+include::{snippets}/video-controller-unit-test/increase/section.adoc[]
+include::{snippets}/video-controller-unit-test/index/section.adoc[]
+include::{snippets}/video-controller-unit-test/read/section.adoc[]
+include::{snippets}/video-controller-unit-test/update/section.adoc[]
+include::{snippets}/video-controller-unit-test/update-not-exists/section.adoc[]

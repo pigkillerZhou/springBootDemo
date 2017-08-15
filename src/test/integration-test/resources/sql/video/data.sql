@@ -1,0 +1,16 @@
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (10, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (101, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (102, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (103, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (104, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (105, 'http://a.com', 'haaaahaa', null, null, null);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (106, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (107, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (108, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (109, 'http://a.com', 'haaaahaa', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (110, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (111, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (112, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (113, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (114, 'http://a.com', 'abc', null, 0, 0);
+INSERT INTO test.video (id, url, description, stat, duration, score) VALUES (115, 'http://a.com', 'abc', null, 0, 0);
